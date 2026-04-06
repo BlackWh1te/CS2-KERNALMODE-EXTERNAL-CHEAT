@@ -59,9 +59,25 @@
 Extract all files from the release package to a folder.
 
 ### Step 2: Load the Driver
+
+#### Option 1: Using Command Prompt (Recommended)
+1. Open **Command Prompt** as **Administrator**
+2. Navigate to the cheat folder:
+```bash
+cd C:\Path\To\Your\Cheat\Folder
+```
+3. Run the driver mapper:
+```bash
+kdmapper.exe driver.sys
+```
+4. Wait for "Driver loaded successfully" message
+5. Close the driver console window
+
+#### Option 2: Using kdmapper GUI
 1. Run `kdmapper.exe` as Administrator
-2. Select `driver.sys`
+2. Click "Select Driver" and choose `driver.sys`
 3. Wait for "Driver loaded successfully" message
+4. Close the driver console window
 
 ### Step 3: Run the Cheat
 1. Run `CS2_External.exe` as Administrator
