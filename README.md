@@ -101,6 +101,8 @@ kdmapper.exe driver.sys
 >>
 ```
 
+> 💡 **Need a license key?** Join our Discord: [discord.gg/acJdgEnnUw](https://discord.gg/acJdgEnnUw)
+
 ### In-Game Controls
 - 🔔 **Menu Key:** `INSERT` or `Home` key
 - Toggle cheats on/off from the menu
