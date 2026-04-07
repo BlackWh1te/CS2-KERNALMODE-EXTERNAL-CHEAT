@@ -165,5 +165,5 @@ Use at your own risk. The developers are not responsible for any bans or penalti
 ---
 
 <p align="center">
-  Made with ❤️ by TRIPPOLY
+  Made with ❤️ by APALON
 </p>
