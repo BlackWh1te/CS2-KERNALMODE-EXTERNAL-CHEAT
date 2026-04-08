@@ -39,12 +39,6 @@
 
 ---
 
-![Uploading Screenshot 2026-04-08 112910.png…]()
-![Uploading Screenshot 2026-04-08 112933.png…]()
-![Uploading Screenshot 2026-04-08 112821.png…]()
-![Uploading Screenshot 2026-04-08 112802.png…]()
-
-
 ## 📦 Requirements
 
 ### System Requirements
