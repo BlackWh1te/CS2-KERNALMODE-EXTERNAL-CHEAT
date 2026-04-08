@@ -31,10 +31,19 @@
 | 🔦 **Anti-Flashbang** | Reduce flashbang effect | ✅ |
 | 🔫 **No Recoil** | Remove weapon recoil | ✅ |
 | 🎯 **No Spread** | Remove weapon spread | ✅ |
+| 🎭 **Skin Changer** | High-performance skin changer with rarities | ✅ |
+| 🔭 **No Scope Overlay**| Remove black borders when in scope | ✅ |
+| 🌌 **Sky Color** | Customize sky and ambient lighting | ✅ |
 | 🔒 **KeyAuth** | License key protection | ✅ |
 | 🔑 **Driver Protection** | Kernel-level driver | ✅ |
 
 ---
+
+![Uploading Screenshot 2026-04-08 112910.png…]()
+![Uploading Screenshot 2026-04-08 112933.png…]()
+![Uploading Screenshot 2026-04-08 112821.png…]()
+![Uploading Screenshot 2026-04-08 112802.png…]()
+
 
 ## 📦 Requirements
 
@@ -101,7 +110,7 @@ kdmapper.exe driver.sys
 >>
 ```
 
-> 💡 **Need FREE license key?** Join our Discord: [discord.gg/acJdgEnnUw](https://discord.gg/acJdgEnnUw)
+> 💡 **Need a license key?** Join our Discord: [discord.gg/acJdgEnnUw](https://discord.gg/acJdgEnnUw)
 
 ### In-Game Controls
 - 🔔 **Menu Key:** `INSERT` or `Home` key
@@ -123,11 +132,20 @@ kdmapper.exe driver.sys
 
 #### 💣 Visuals Tab
 - **Remove Smoke** - Disable smoke grenades
+- **No Scope Overlay** - Remove black borders on scoped weapons
 - **Anti-Flashbang** - Reduce flash effects
 
 #### 🔫 Weapon Tab
 - **No Recoil** - Remove recoil
 - **No Spread** - Remove spread
+
+#### 🎭 Skins Tab
+- **Skin Changer** - Apply high-performance custom skins
+- **Rarity Indicators** - See skin rarity in the selection menu
+
+#### 🌍 World Tab
+- **Sky Color** - Change the sky tint
+- **Ambient Lighting** - Customize the world's ambient light color
 
 ---
 
@@ -165,5 +183,5 @@ Use at your own risk. The developers are not responsible for any bans or penalti
 ---
 
 <p align="center">
-  Made with ❤️ by APALON
+  Made with ❤️ by TRIPPOLY
 </p>
